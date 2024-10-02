@@ -215,7 +215,7 @@ Here the same analysis as above for Bar was carried out for Coffee House coupons
 1. **Younger drivers** and visit coffee house between 1-3 time are more likely to accept the coffee house coupons than older drivers
 2. **Drivers who go to coffee house more than 4-8 times** are less likely than the younger counterparts to accept the coffee house coupons.
 3. **Drivers who go to coffee house more than  8 times** are least likely to accept the coffee house coupons in comparison with drivers who frequent less. 
-4. Time of the day seems to have an impact on the acceptance of coffee house coupons. Drivers are more likely to accept the coffee house coupons at 7AM in the morning and 6PM in the evening than other times of the day. Though 2AM seems to have equal chances of acceptance and rejection.
+4. Time of the day seems to have an impact on the acceptance of coffee house coupons. Drivers are more likely to accept the coffee house coupons at 7AM in the morning and 6PM in the evening than other times of the day. Though 2PM seems to have equal chances of acceptance and rejection.
 
 
 ## Next Steps
@@ -225,7 +225,5 @@ Here the same analysis as above for Bar was carried out for Coffee House coupons
 4. The data can be further cleaned and preprocessed encode categories into numerical values so that it can be easily correlated and used in Machine Learning models.
 5. The data can be split into training and testing data and models can be built to predict the acceptance of coupons.
 
-## Conclusion
-The data was analysed for the acceptance of Bar and Coffee House coupons. The data was visualized using Seaborn. 
 
 
