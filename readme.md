@@ -1,6 +1,8 @@
 
 # Will the Customer Accept the Coupon-An Exploratory Data Analysis
 
+[Link to the Jupyter Notebook](https://github.com/Shashidhar-Sathya/coupons/blob/main/coupon_analysis.ipynb/)
+
 
 ## Introduction
 As a sales & marketing exercise, an entity isproviding Food & Beverage coupon to memebers of public driving through  or near a town.  Then the recipient of the coupon can:
@@ -225,5 +227,5 @@ Here the same analysis as above for Bar was carried out for Coffee House coupons
 4. The data can be further cleaned and preprocessed encode categories into numerical values so that it can be easily correlated and used in Machine Learning models.
 5. The data can be split into training and testing data and models can be built to predict the acceptance of coupons.
 
-
+[Link to the Jupyter Notebook](https://github.com/Shashidhar-Sathya/coupons/blob/main/coupon_analysis.ipynb/)
 
