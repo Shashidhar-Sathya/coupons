@@ -224,7 +224,7 @@ Here the same analysis as above for Bar was carried out for Coffee House coupons
 1. Further analysis can be carried out on the data to understand the acceptance of coupons based on other influencing factors like Time, Destination, Weather, direction of travel etc. to understand the acceptance of coupons.
 2. Machine Learning models can be built to predict the acceptance of coupons based on the influencing factors.
 3. To work out the correlation between the influencing factors and the acceptance of coupons manually is a tedious task. This can be automated using Machine Learning models.
-4. The data can be further cleaned and preprocessed encode categories into numerical values so that it can be easily correlated and used in Machine Learning models.
+4. The data can be further cleaned and preprocessed and encode categories into numerical values so that it can be easily correlated and used in Machine Learning models.
 5. The data can be split into training and testing data and models can be built to predict the acceptance of coupons.
 
 [Link to the Jupyter Notebook](https://github.com/Shashidhar-Sathya/coupons/blob/main/coupon_analysis.ipynb/)
