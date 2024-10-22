@@ -5,7 +5,7 @@
 
 
 ## Introduction
-As a sales & marketing exercise, an entity isproviding Food & Beverage coupon to memebers of public driving through  or near a town.  Then the recipient of the coupon can:
+As a sales & marketing exercise, an entity is providing Food & Beverage coupon to memebers of public driving through  or near a town.  Then the recipient of the coupon can:
 
     1. Accept the coupon - Yes
     2. Accept for later Use - Yes
@@ -93,7 +93,7 @@ The total coupons issued can be grouped into 5 Types
 1. Hotter the weather, more coupons gets issued
 2. At 6PM most coupons gets issued   
 3. When the temperature is 80, **twice** the coupones as when the **temperature is 55** gets issued  
-3. When the temperature is at **55**, again **twice** the coupon as when the **temperature is 55**  gets issued  
+3. When the temperature is at **55**, again **twice** the coupon as when the **temperature is 30**  gets issued  
 
 
 ### 4. Coupon's acceptance with varying Temperature was analysed.
